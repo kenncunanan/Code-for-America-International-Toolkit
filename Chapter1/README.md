@@ -1,1 +1,7 @@
-## Chapter 2 Intro
+## <font color="#399fd3">I. WELCOME -- BEINVENIDO -- CIAO</font color>
+
+You want to start Code for “XXX.” First of all, congratulations on wanting to make a difference in your home country and for choosing to take it upon yourself to try to think differently and to do your part to improve your community.
+
+First, here’s the backstory outlining [how Code for America began](http://www.codeforamerica.org/blog/2011/09/30/were-two/), eloquently penned in a blog post by the organization’s founder, Jennifer Pahlka. This toolkit presupposes that a local community group is undertaking the implementation of “Code for” style programs but many of the lessons outlined in this toolkit will also be relevant for a government representative interested in doing the same.
+
+This is not your average toolkit. What “works” in the states won’t necessarily work everywhere. This toolkit does not intend to serve as a turnkey solution to innovation challenges in government nor does it claim to be equally relevant for different contexts. Instead, what we aim to do is to take you on an analytical journey to determine the best way for you to affect change in your own community using modern principles of design, technology, and social change. We will ask you questions that will illuminate some potential programmatic options and provide you with examples that may be relevant for you. We will outline our own processes and the reasoning behind them. We hope that these descriptions are helpful to you in sussing out the most effective approaches in your own context. We invite you to mix and match however you see fit and encourage you to share your own experience which we will use to improve this resource.
