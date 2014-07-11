@@ -2,7 +2,7 @@
 
 
 
-<img src="../Code/BookName/assets/toolkitlogo.png" alt="Code for All Logo" style="width: 300px;"/>
+<img src="assets/toolkitlogo.png" alt="Code for All Logo" style="width: 300px;"/>
 
 <br>
 
@@ -12,10 +12,9 @@ This toolkit serves to document the Code for America fellowship program within t
 
 
 <br>
-<br>
-
 
 <img src="http://codeforamerica.org/media/images/logos/code_for_all_logo.png" alt="Code for All Logo" style="width: 200px;"/>
+<br>
 <img src="http://codeforamerica.org/media/images/logos/flag_tag.png" alt="Flag Tag" style="width: 200px;"/>
 
 
