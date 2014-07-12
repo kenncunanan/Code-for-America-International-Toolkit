@@ -1,6 +1,6 @@
 ## <font color="#cf1b41">Staff Profile - Luke Norris</font color>
 
-![Luke Norris Headshot](http://i.imgur.com/PNCp7QP.png)
+![Luke Norris Headshot](/assets/luke_norris_headshot.png)
 
 [Luke](http://www.codeforamerica.org/people/luke-norris/) is CfA’s Director of Government Relations. He’s responsible for developing pipelines of city partners interested in collaborating with CfA’s Fellowship Program. Luke’s role is a key part of CfA’s Fellowship Program. He not only pitches the program to city partners but walks them through the process to enhance the potential for project success.
 

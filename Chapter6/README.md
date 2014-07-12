@@ -1,4 +1,4 @@
-## <font color="#399fd3">VI. City Engagement</font color>
+## <font color="#399fd3">City Engagement</font color>
 
 As with the fellows, Code for America works with U.S. cities  to promote the fellowship program and then receives applications from cities interested in participating in the program. Once the application cycle is complete we then select which cities to work with based upon pre-established selection criteria.
 

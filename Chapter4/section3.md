@@ -3,7 +3,7 @@
 Below is a general programmatic calendar for the fellowship, with the main themes of the different periods underneath.
 
 
-<img src="assets/calendar.png" alt="Programatic Calendar"/>
+![Calendar Infographic](/assets/calendar.png)
 
 * **January Training:** Prepares fellows for their residency in government with trainings in government structure, negotiation, research skills, and practice developing together making projects.
 

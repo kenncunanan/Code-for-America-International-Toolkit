@@ -19,7 +19,7 @@
 	* [Messaging](Chapter5/section4.md)
 * [City Engagement](Chapter6/README.md)
 	* [Staff Profile - Luke Norris](Chapter6/section1.md)
-	* [Pitching the Fellowship](Chpater6/section2.md)
+	* [Pitching the Fellowship](Chapter6/section2.md)
 		* [High Level City Officials](Chapter6/section2.1.md)
 		* [Less Senior City Officials](Chapter6/section2.2.md)
 	* [Common Challenges and Responses](Chapter6/section3.md)

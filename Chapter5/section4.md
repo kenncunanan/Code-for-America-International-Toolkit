@@ -60,7 +60,7 @@ Here’s an example email we sent to our [followers on our email list](https://d
 
 Here’s what happened after our email blast to our followers:
 
-![Twitter blast](http://i.imgur.com/eFh8r9Q.png)
+![Twitter blast](/assets/twitter_blast.png)
 
 * [Fellowship Recruitment Resource One Pager Example](https://docs.google.com/a/codeforamerica.org/document/d/1vHclZYxmJmqDr8JLnlpG4VYMjt_dHWLsZFJt5Dl4J1A/edit#)
 * [Fellowship Community Organizer Resources](https://docs.google.com/a/codeforamerica.org/document/d/1--ZHRW4w4F3p1wXqoerDkW-NXtbO0ACabCy3uIrJneM/edit)
