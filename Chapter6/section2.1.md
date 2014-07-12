@@ -1,4 +1,4 @@
-## <font color="#cf1b41">High Level City Officials</font color>
+### <font color="#cf1b41">High Level City Officials</font color>
 
 It is ideal to approach mayors when they have been recently elected. In our experience Mayors get excited about the program because they want innovation, and be known as trying to do “things differently” with a new policy agenda and use that to carry momentum for their term. Creating positive PR opportunities are helpful in getting mayors and other high level government officials on board
 

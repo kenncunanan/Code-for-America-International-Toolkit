@@ -1,4 +1,4 @@
-## <font color="#cf1b41">Money, Money, Money!</font color>
+### <font color="#cf1b41">Money, Money, Money!</font color>
 
 For the CfA fellowship program city partners are responsible for contributing 220K towards the total fellowship program cost of 440K. This is a LOT of money for city governments and when pitching the program some start to feel sticker shock. Your own fellowship programs will likely have different costs. Some of you may not
 

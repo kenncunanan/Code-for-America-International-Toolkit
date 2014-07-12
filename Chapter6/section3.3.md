@@ -1,4 +1,4 @@
-## How do I know the fellows will do a good job?
+### How do I know the fellows will do a good job?
 
 This is an understandable concern. At CfA, we are fortunate to be able to point to a track record of success with previous fellowship programs and also have the benefit of a very competititive application pool. Your own ability to successfully dissaude these concerns will be tied in large part to the sucess of you fellows recruitment efforts.
 

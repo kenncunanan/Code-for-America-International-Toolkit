@@ -1,4 +1,4 @@
-## Why Won't the Fellows Live in My City?
+### Why Won't the Fellows Live in My City?
 
 The fact that fellows partaking in CfA’s fellowship program don’t traditionally live in the cities where they work is oftentimes of concern to government officials. This may or may not be the case for your situation as many partners who have implemented the fellowship have opted for fellows to live in the city where they work. This is oftentimes of concern to local council members who face pressure to keep job opportunities local, prompting officials to anticipate their constituents asking the question “why don’t we hire people in our backyard?”
 
