@@ -13,8 +13,8 @@ This toolkit serves to document the Code for America fellowship program within t
 
 <br>
 
-<img src="http://codeforamerica.org/media/images/logos/code_for_all_logo.png" alt="Code for All Logo" style="width: 200px;"/>
+<img src="assets/code_for_all_logo.png" alt="Code for All Logo" style="width: 200px;"/>
 <br>
-<img src="http://codeforamerica.org/media/images/logos/flag_tag.png" alt="Flag Tag" style="width: 200px;"/>
+<img src="assets/flag_tag.png" alt="Flag Tag" style="width: 200px;"/>
 
 
