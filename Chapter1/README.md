@@ -1,4 +1,4 @@
-## <font color="#399fd3">I. WELCOME -- BEINVENIDO -- CIAO</font color>
+## <font color="#399fd3">WELCOME/BEINVENIDO/CIAO</font color>
 
 You want to start Code for “XXX.” First of all, congratulations on wanting to make a difference in your home country and for choosing to take it upon yourself to try to think differently and to do your part to improve your community.
 

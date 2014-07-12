@@ -1,0 +1,3 @@
+## <font color="#cf1b41">Diversity</font color>
+
+Diversity means something different for everyone, but what we mean by diversity at Code for America in the fellowship is a respect for people from all walks of life, and reflecting in our fellowship the diversity of the communities we serve. Certainly that means skillsets pertaining to the needs of our projects, but it also means actively reaching out in recruitment to women, racial minorities, those of diverse sexual orientations, and more. We at Code for America believe the richer the diversity of a group, the more perspectives available to draw upon. However, it also means that the community needs to be empowered with resources and tools to effectively communicate with one another, so training is very important.
