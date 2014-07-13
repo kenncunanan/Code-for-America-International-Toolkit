@@ -26,7 +26,7 @@
 		* [Money, Money, Money!](Chapter6/section3.1.md)
 		* [Why Won't the Fellows Live in My City?](Chapter6/section3.2.md)
 		* [How do I know the fellows will do a good job?](Chapter6/section3.3.md)
-	* [References](Chapter7/README.md)
+* [References](Chapter7/README.md)
 
 
 
